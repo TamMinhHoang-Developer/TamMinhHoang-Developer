@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TamMinhHoang-Developer" alt="grgerg" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <a href="https://twitter.com/ẻgerg" target="blank"><img src="https://img.shields.io/twitter/follow/ẻgerg?logo=twitter&style=for-the-badge" alt="ẻgerg" /></a> </p>
 
 - 🔭 I’m currently working on [Angular](ưefwef)
