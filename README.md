@@ -7,27 +7,27 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/ẻgerg" target="blank"><img src="https://img.shields.io/twitter/follow/ẻgerg?logo=twitter&style=for-the-badge" alt="ẻgerg" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/ẻgerg" target="blank"><img src="https://img.shields.io/twitter/follow/ẻgerg?logo=twitter&style=for-the-badge" alt="ẻgerg" /></a> </p>-->
 
-- 🔭 I’m currently working on [Angular](ưefwef)
+- 🔭 I’m currently working on [Angular](https://angular.dev/)
 
-- 🌱 I’m currently learning **Angular, React, NextJS**
+- 🌱 I’m currently learning **Angular, React, NextJS, UX/UI Designer**
 
-- 👯 I’m looking to collaborate on [Linker](ưefwfe)
+- 👯 I’m looking to collaborate on [Linker](www.linkedin.com/in/tamhoang-developer)
 
-- 🤝 I’m looking for help with [Stacko](gẻgr)
+- 👨‍💻 All of my projects are available at [My Profile](minhtam-resume.vercel.app)
 
-- 👨‍💻 All of my projects are available at [rưgreg](rưgreg)
-
-- 📝 I regularly write articles on [ẻgerg](ẻgerg)
+- 📝 I regularly write articles on [Dev.io](dev.io)
 
 - 💬 Ask me about **Angular, React, NextJS**
 
 - 📫 How to reach me **tam.hoang.developer@gmail.com**
 
-- 📄 Know about my experiences [ẻgerg](ẻgerg)
+<!-- - 📄 Know about my experiences [ẻgerg](ẻgerg)
+     - ⚡ Fun fact **ẻgrg**
+-->
 
-- ⚡ Fun fact **ẻgrg**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
